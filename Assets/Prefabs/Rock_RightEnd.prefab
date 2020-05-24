@@ -11,7 +11,8 @@ GameObject:
   - component: {fileID: 857650903610790226}
   - component: {fileID: 4588948647184448672}
   - component: {fileID: 1699120865849128652}
-  m_Layer: 0
+  - component: {fileID: 1312054704994238808}
+  m_Layer: 8
   m_Name: Rock_RightEnd
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -108,3 +109,15 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 5.12, y: 5.12}
   m_EdgeRadius: 0
+--- !u!114 &1312054704994238808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8405849163976029187}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ea81607ed18d4d85b5f463b78d172ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
