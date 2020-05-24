@@ -1,0 +1,3091 @@
+fileFormatVersion: 2
+guid: 52c1484652dbf4f8a8f9c602702157a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7197018730638329641
+    second: Tileset_Rock_0
+  - first:
+      213: 5278823070919881930
+    second: Tileset_Rock_1
+  - first:
+      213: 5369352020714696814
+    second: Tileset_Rock_2
+  - first:
+      213: 4642596664606366474
+    second: Tileset_Rock_3
+  - first:
+      213: 4054551079399652464
+    second: Tileset_Rock_4
+  - first:
+      213: -8773064391629015442
+    second: Tileset_Rock_5
+  - first:
+      213: -6950628394294211545
+    second: Tileset_Rock_6
+  - first:
+      213: -5009844667929492159
+    second: Tileset_Rock_7
+  - first:
+      213: 2135172386871339081
+    second: Tileset_Rock_8
+  - first:
+      213: -5327614557411806717
+    second: Tileset_Rock_9
+  - first:
+      213: 8615444882941624499
+    second: Tileset_Rock_10
+  - first:
+      213: -5206460828241014077
+    second: Tileset_Rock_11
+  - first:
+      213: -6462995320613586128
+    second: Tileset_Rock_12
+  - first:
+      213: -5967406956353499443
+    second: Tileset_Rock_13
+  - first:
+      213: -8769595707326716387
+    second: Tileset_Rock_14
+  - first:
+      213: 1820754085983637697
+    second: Tileset_Rock_15
+  - first:
+      213: 8163827241535742674
+    second: Tileset_Rock_16
+  - first:
+      213: -8071486042261491625
+    second: Tileset_Rock_17
+  - first:
+      213: -736525966773305393
+    second: Tileset_Rock_18
+  - first:
+      213: -6566064310493091901
+    second: Tileset_Rock_19
+  - first:
+      213: 2473542045744272918
+    second: Tileset_Rock_20
+  - first:
+      213: -9004706831712201877
+    second: Tileset_Rock_21
+  - first:
+      213: 2020715919784203938
+    second: Tileset_Rock_22
+  - first:
+      213: -549895772356826891
+    second: Tileset_Rock_23
+  - first:
+      213: -2650049084385433434
+    second: Tileset_Rock_24
+  - first:
+      213: 977829601178819517
+    second: Tileset_Rock_25
+  - first:
+      213: -6960322992257696645
+    second: Tileset_Rock_26
+  - first:
+      213: 1016869922077876575
+    second: Tileset_Rock_27
+  - first:
+      213: -7122809911181543247
+    second: Tileset_Rock_28
+  - first:
+      213: 3300265548776024661
+    second: Tileset_Rock_29
+  - first:
+      213: 4525455252243599443
+    second: Tileset_Rock_30
+  - first:
+      213: 4521316684339931352
+    second: Tileset_Rock_31
+  - first:
+      213: 5939229603474235694
+    second: Tileset_Rock_32
+  - first:
+      213: 3451215374646067528
+    second: Tileset_Rock_33
+  - first:
+      213: -8131397669384341970
+    second: Tileset_Rock_34
+  - first:
+      213: 4329301277587620543
+    second: Tileset_Rock_35
+  - first:
+      213: 4371372029245245187
+    second: Tileset_Rock_36
+  - first:
+      213: -8928254797410886188
+    second: Tileset_Rock_37
+  - first:
+      213: -2989763991693824607
+    second: Tileset_Rock_38
+  - first:
+      213: 5824859664173662039
+    second: Tileset_Rock_39
+  - first:
+      213: 3041983073396620406
+    second: Tileset_Rock_40
+  - first:
+      213: 4567846115450447288
+    second: Tileset_Rock_41
+  - first:
+      213: 7253528602287734837
+    second: Tileset_Rock_42
+  - first:
+      213: 6872042894073840705
+    second: Tileset_Rock_43
+  - first:
+      213: 1691280406047780591
+    second: Tileset_Rock_44
+  - first:
+      213: -1908960422844364225
+    second: Tileset_Rock_45
+  - first:
+      213: -7621336703071591513
+    second: Tileset_Rock_46
+  - first:
+      213: -2697646282907011749
+    second: Tileset_Rock_47
+  - first:
+      213: 5021844284459487065
+    second: Tileset_Rock_48
+  - first:
+      213: 9014984621033769298
+    second: Tileset_Rock_49
+  - first:
+      213: -6970512315949968315
+    second: Tileset_Rock_50
+  - first:
+      213: 366094211992538998
+    second: Tileset_Rock_51
+  - first:
+      213: 6263709515831981876
+    second: Tileset_Rock_52
+  - first:
+      213: 9138543138222021413
+    second: Tileset_Rock_53
+  - first:
+      213: 5658244735937066567
+    second: Tileset_Rock_54
+  - first:
+      213: -7423528076169682739
+    second: Tileset_Rock_55
+  - first:
+      213: -1976577035896948746
+    second: Tileset_Rock_56
+  - first:
+      213: 5583692823259211482
+    second: Tileset_Rock_57
+  - first:
+      213: 6873760802794207831
+    second: Tileset_Rock_58
+  - first:
+      213: -3517618058030937047
+    second: Tileset_Rock_59
+  - first:
+      213: 8261993350104017706
+    second: Tileset_Rock_60
+  - first:
+      213: 7893285175351184835
+    second: Tileset_Rock_61
+  - first:
+      213: -7564953325875045876
+    second: Tileset_Rock_62
+  - first:
+      213: 6783166328952953498
+    second: Tileset_Rock_63
+  - first:
+      213: 4120619912300398203
+    second: Tileset_Rock_64
+  - first:
+      213: 4244232976144696723
+    second: Tileset_Rock_65
+  - first:
+      213: 5265033128582774233
+    second: Tileset_Rock_66
+  - first:
+      213: 5111609084081939272
+    second: Tileset_Rock_67
+  - first:
+      213: 2929108369063990264
+    second: Tileset_Rock_68
+  - first:
+      213: -2723283405025545367
+    second: Tileset_Rock_69
+  - first:
+      213: 6628352902854561024
+    second: Tileset_Rock_70
+  - first:
+      213: -6168808877090841950
+    second: Tileset_Rock_71
+  - first:
+      213: 1554606994757033865
+    second: Tileset_Rock_72
+  - first:
+      213: 35790039568463836
+    second: Tileset_Rock_73
+  - first:
+      213: -8017974694738316740
+    second: Tileset_Rock_74
+  - first:
+      213: 4382022699280883404
+    second: Tileset_Rock_75
+  - first:
+      213: -6205359130275229208
+    second: Tileset_Rock_76
+  - first:
+      213: 2963535416106773653
+    second: Tileset_Rock_77
+  - first:
+      213: -5416677568737782941
+    second: Tileset_Rock_78
+  - first:
+      213: 5684905537242697037
+    second: Tileset_Rock_79
+  - first:
+      213: 1743257538554705729
+    second: Tileset_Rock_80
+  - first:
+      213: 2129435159507333345
+    second: Tileset_Rock_81
+  - first:
+      213: 6219765114713181934
+    second: Tileset_Rock_82
+  - first:
+      213: -1717693291576336142
+    second: Tileset_Rock_83
+  - first:
+      213: -8901378919242279016
+    second: Tileset_Rock_84
+  - first:
+      213: 715904371116395946
+    second: Tileset_Rock_85
+  - first:
+      213: -8832862327859591105
+    second: Tileset_Rock_86
+  - first:
+      213: -1832031403373896470
+    second: Tileset_Rock_87
+  - first:
+      213: 6792190363569701454
+    second: Tileset_Rock_88
+  - first:
+      213: 8452676171803321352
+    second: Tileset_Rock_89
+  - first:
+      213: -9132068671261755340
+    second: Tileset_Rock_90
+  - first:
+      213: 2881390937599278527
+    second: Tileset_Rock_91
+  - first:
+      213: -707814546208566099
+    second: Tileset_Rock_92
+  - first:
+      213: -1212439080601513558
+    second: Tileset_Rock_93
+  - first:
+      213: -5347963741705033804
+    second: Tileset_Rock_94
+  - first:
+      213: 1901228453106277417
+    second: Tileset_Rock_95
+  - first:
+      213: 3555352816632180891
+    second: Tileset_Rock_96
+  - first:
+      213: -6920162048342040425
+    second: Tileset_Rock_97
+  - first:
+      213: 6829086087406196773
+    second: Tileset_Rock_98
+  - first:
+      213: 7482555445433970780
+    second: Tileset_Rock_99
+  - first:
+      213: 8574027732858783989
+    second: Tileset_Rock_100
+  - first:
+      213: 318009686935209578
+    second: Tileset_Rock_101
+  - first:
+      213: -7167132556773201149
+    second: Tileset_Rock_102
+  - first:
+      213: -8707537738586543309
+    second: Tileset_Rock_103
+  - first:
+      213: -8104807595900416791
+    second: Tileset_Rock_104
+  - first:
+      213: -5645157706187166687
+    second: Tileset_Rock_105
+  - first:
+      213: -4209110622846331412
+    second: Tileset_Rock_106
+  - first:
+      213: 6893233765980796807
+    second: Tileset_Rock_107
+  - first:
+      213: -8161319597335695592
+    second: Tileset_Rock_108
+  - first:
+      213: -640825156126576945
+    second: Tileset_Rock_109
+  - first:
+      213: -2061899700613322352
+    second: Tileset_Rock_110
+  - first:
+      213: -3922561485537822465
+    second: Tileset_Rock_111
+  - first:
+      213: -552070174043446832
+    second: Tileset_Rock_112
+  - first:
+      213: 2523469343474543213
+    second: Tileset_Rock_113
+  - first:
+      213: -6622179621361911803
+    second: Tileset_Rock_114
+  - first:
+      213: -8199512403505468403
+    second: Tileset_Rock_115
+  - first:
+      213: 3135991331378240199
+    second: Tileset_Rock_116
+  - first:
+      213: -6077912473102092526
+    second: Tileset_Rock_117
+  - first:
+      213: 2455492537327984822
+    second: Tileset_Rock_118
+  - first:
+      213: -1111766761351543708
+    second: Tileset_Rock_119
+  - first:
+      213: -5839499207966816231
+    second: Tileset_Rock_120
+  - first:
+      213: 4079820856478450819
+    second: Tileset_Rock_121
+  - first:
+      213: -2057425246120415795
+    second: Tileset_Rock_122
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_Rock_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb4f8df3486243b9a0c331bc14f1e58
+      internalID: 7197018730638329641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 7680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0a8eda28c104f3db3dde3b00c4902a
+      internalID: 5278823070919881930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 7680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e637a1098f8c4be5b2684fff62f74ce
+      internalID: 5369352020714696814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 7680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e72461bab2e04886ac90c54fa70e2bc
+      internalID: 4642596664606366474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 7680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33184f6ba68544d42a8f1c0b0ffff8c5
+      internalID: 4054551079399652464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 7680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235d525193619471a9cd20bb57243329
+      internalID: -8773064391629015442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 7680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddd4578f11474e70bbd1e1c53d4e02a
+      internalID: -6950628394294211545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_7
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 7680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bffcdfe460a84f03824de90160c27cc
+      internalID: -5009844667929492159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_8
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 7680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c834d3732756419f8b9e8d48e172a25
+      internalID: 2135172386871339081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_9
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 7680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6321e829ac2bf4e3bbecc5b07d9ac887
+      internalID: -5327614557411806717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_10
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 7680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04416f40217f54e2c9161a8fa299d7d2
+      internalID: 8615444882941624499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8d4117804504a69aa6951f30b7561e
+      internalID: -5206460828241014077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008906718879349d896e5567b508fb63
+      internalID: -6462995320613586128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_13
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205e18df67112448880dc2b309badd6b
+      internalID: -5967406956353499443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_14
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6629f9bfdbe4736807f0fc87597546
+      internalID: -8769595707326716387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_15
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c2dfc37c76649dca889fd84c475b45
+      internalID: 1820754085983637697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_16
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1cc522216ee4c88a4ee930ee3647e3
+      internalID: 8163827241535742674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_17
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f096fe36475c14d949077c09cd1a6d53
+      internalID: -8071486042261491625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_18
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35d9abd9f48245b89e8c0bd2c7ad9a2
+      internalID: -736525966773305393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_19
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb259b2ce4054e238d3bbf4c03fad58
+      internalID: -6566064310493091901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_20
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b0ca916450a475c90d986a963fc5f8
+      internalID: 2473542045744272918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_21
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f88799c28237401382e14841a58ca69
+      internalID: -9004706831712201877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7392d2b710664d85b37d5c7e0388b7e
+      internalID: 2020715919784203938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ebd0869fa094045938fd0a4f4f26ea
+      internalID: -549895772356826891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85853f3f273db4b908a7d7ea8e73bc6b
+      internalID: -2650049084385433434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_25
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becbc0b9a640d451ca6c8174c2302aa3
+      internalID: 977829601178819517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_26
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c028760625144738a8f96f572c4b9eb
+      internalID: -6960322992257696645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_27
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a54c986b4d64b9abeec066d7de0116
+      internalID: 1016869922077876575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_28
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9660fcc1639447d9abd237628681ec4
+      internalID: -7122809911181543247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_29
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07bfe221cd9c41ee9bfbbad0b44b3a1
+      internalID: 3300265548776024661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_30
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1813325bfb174398be5ba3ff7aba2b5
+      internalID: 4525455252243599443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_31
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1911834ce712457f83db0053f9c1550
+      internalID: 4521316684339931352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_32
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c28c8ee7c2fd4f5f9a37ae0decb7b67
+      internalID: 5939229603474235694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222037a8cce2241c7b363ccb26df55af
+      internalID: 3451215374646067528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f58d6d642a346dcab2c2a0bc147f8b
+      internalID: -8131397669384341970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_35
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608a8aa418b8643028a7709c8bbb291f
+      internalID: 4329301277587620543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_36
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c35c15a84f1b462faa4641445dc4ed3
+      internalID: 4371372029245245187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_37
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d765411df79849bda945bb5972ed721
+      internalID: -8928254797410886188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_38
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7553fa0b383d45138a9567978d8c422
+      internalID: -2989763991693824607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_39
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8576b501b0348babfcd9d4f68556cb
+      internalID: 5824859664173662039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_40
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae89cca11fa844438b3bce1a31c276d
+      internalID: 3041983073396620406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_41
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17476687f27ab4886a77f856c1621337
+      internalID: 4567846115450447288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_42
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb7d34a83c58437189b8d6dee6a2f98
+      internalID: 7253528602287734837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_43
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5ffb6209c6649688f23a83d59c6dd0
+      internalID: 6872042894073840705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8818a23a0707482db8fea5c7fc2ce40
+      internalID: 1691280406047780591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_45
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd09e45738ea1421f96b535e2f8861d0
+      internalID: -1908960422844364225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_46
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c7d31ccff1a46a2bad5c24b9545b1f
+      internalID: -7621336703071591513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_47
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bdef726be6c4b1bbff65c7debaa8c8
+      internalID: -2697646282907011749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_48
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0102c16b3004c7d959308499c26c13
+      internalID: 5021844284459487065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_49
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46b981922b964aa78f21c0cbaad9e5f
+      internalID: 9014984621033769298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_50
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dfd52b06030480187cffca2b84ad87
+      internalID: -6970512315949968315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_51
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69def154cd0f3483ab8efd85be390c6c
+      internalID: 366094211992538998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_52
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c675ce3730c5f4b2bafb4d79d05a76a3
+      internalID: 6263709515831981876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_53
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994f96a112c0c4f42a817bfdc67b45c7
+      internalID: 9138543138222021413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_54
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4cccbc6cb9f4bf39afc97feb322ccf
+      internalID: 5658244735937066567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876f24a61181142fe85d7fffbe947b68
+      internalID: -7423528076169682739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3476c0769a4074f57b481c1ce7d2a660
+      internalID: -1976577035896948746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_57
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71feda741d5e145f485346716c249b13
+      internalID: 5583692823259211482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_58
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ccd4d629a9946d39f6e3f3d50ec140
+      internalID: 6873760802794207831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_59
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba0ced57da034c60b04ba4dd4bf9f95
+      internalID: -3517618058030937047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_60
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ce13ad0a7154eddb2dda6ed8e69736
+      internalID: 8261993350104017706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_61
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a3a367cdd1f44ceb76632e74758f94
+      internalID: 7893285175351184835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_62
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071f53c2e61bf486193026a27eb92bd9
+      internalID: -7564953325875045876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_63
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2890f4d52809450297bd8844c2dbeea
+      internalID: 6783166328952953498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_64
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53869d8b716544776977c0185ecf3161
+      internalID: 4120619912300398203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86016fd1a110540fc9d2965951f6ced2
+      internalID: 4244232976144696723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_66
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa7b03db7ec84d88a7ed6bb34916933
+      internalID: 5265033128582774233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_67
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e23c901f69784190852dadf44ebe764
+      internalID: 5111609084081939272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_68
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcb42324a50a4f63918d2b4288c8cb6
+      internalID: 2929108369063990264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_69
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2bac0273631423a988cf93984d429f
+      internalID: -2723283405025545367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_70
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b454a0d3e3bbb4cd18b497efe9d04feb
+      internalID: 6628352902854561024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_71
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43b1d277b59f4ad1a6a6d2ac9bfbdb9
+      internalID: -6168808877090841950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_72
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7350e1147f0a47e5a508bf51c4bd8e7
+      internalID: 1554606994757033865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_73
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379f301c2fee44d10aeb34ec96e93679
+      internalID: 35790039568463836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_74
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036ae971323a942d896be0a8161d5cc5
+      internalID: -8017974694738316740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78deba7d634e4585b43c5e8dc9a5d11
+      internalID: 4382022699280883404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_76
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10566f0f0681b4c62b9f8aff6061b5a4
+      internalID: -6205359130275229208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_77
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a650cef4f1a54c7aaa7026b6d8e98cc
+      internalID: 2963535416106773653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_78
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b1a78040b784eed9826b371e971f19
+      internalID: -5416677568737782941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_79
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a49a1b8cb034ae6819894669224ef8
+      internalID: 5684905537242697037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_80
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a0b92eda0124577a154ace88ce3b3d
+      internalID: 1743257538554705729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_81
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b90dc90659c4d76afdc9364b77dc5a
+      internalID: 2129435159507333345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_82
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acba5b22cb89f4997b2ca07966a9da1e
+      internalID: 6219765114713181934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_83
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a4db09f7fc148f99d779e1ccfb92f2
+      internalID: -1717693291576336142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_84
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00f2f2af88434c90b76b10cfc8f64f0
+      internalID: -8901378919242279016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_85
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd28e3e07bd44063aa474a9f58384e3
+      internalID: 715904371116395946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8044bd8ab1094e25b0cc52b6620a5d8
+      internalID: -8832862327859591105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_87
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031420e3466404d80961464ea3abb45b
+      internalID: -1832031403373896470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_88
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f2794d37f464618a7b8c835e26c60c
+      internalID: 6792190363569701454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_89
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d20304ffc8a74f20a77898e4622e919
+      internalID: 8452676171803321352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_90
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a938739da62b548408170b861b1bfcde
+      internalID: -9132068671261755340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_91
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9989ddf8fc77a4741a7ce7b6879bae69
+      internalID: 2881390937599278527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_92
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f651ad5372e8449fdbd00300520d184c
+      internalID: -707814546208566099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_93
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d038505fbb34d868c4425fe0e6de9f
+      internalID: -1212439080601513558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_94
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a31c5442afd744dfa4f1ac72f2b776b
+      internalID: -5347963741705033804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_95
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8503f4394cc4f4cd6a36334ff39ed982
+      internalID: 1901228453106277417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_96
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a82a7d635d504f4d9e7bcff0772e8c9
+      internalID: 3555352816632180891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231a1d1bfde5042fca95ee4c4d940240
+      internalID: -6920162048342040425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_98
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8185221d070b4f2b87c7796bc987ef9
+      internalID: 6829086087406196773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_99
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f416b710fd9460c82c8a0d699d4522
+      internalID: 7482555445433970780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_100
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbbd86a0e5b144f192f35a087870075
+      internalID: 8574027732858783989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_101
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa0c4bd4f4994fc0a8c95bd0e36609c
+      internalID: 318009686935209578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_102
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37667b1c86f34f7ab6c4a5c16dbc4ed
+      internalID: -7167132556773201149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_103
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88fb16a262394acdb779584afffc06d
+      internalID: -8707537738586543309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_104
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da47b34e79244c299dedbacd1c9ae5d
+      internalID: -8104807595900416791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_105
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273aad65cf81e41e3946ad3aea92ebf8
+      internalID: -5645157706187166687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_106
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3985235966b4967a928047a79d5c59
+      internalID: -4209110622846331412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8706b7eb72844957a9fd2a885477800
+      internalID: 6893233765980796807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_108
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2351e482cf014c4ea7978bbfc406910
+      internalID: -8161319597335695592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_109
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c804b5e86a36e4decb0a7f9192d10b4c
+      internalID: -640825156126576945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_110
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edbc8651f6de4b15a5c985b0495ae76
+      internalID: -2061899700613322352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_111
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f91abb1a18e4a73a9863233dd876cf
+      internalID: -3922561485537822465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_112
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6681abd1a4af4393910eb40a05bea66
+      internalID: -552070174043446832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_113
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f1f402d93284ba4852b776a7414b33
+      internalID: 2523469343474543213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_114
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f525a14f62bc246c595ef7fbd40fa6e0
+      internalID: -6622179621361911803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_115
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0e4f95afb2a46498eea72f0246341e
+      internalID: -8199512403505468403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44648650f3300479a8e6d5c0b7ed12dd
+      internalID: 3135991331378240199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_117
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcc5d7a51976432b91ab7c9cc5e5110
+      internalID: -6077912473102092526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_118
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ee70d0b691d47cebc8638d61e3b656
+      internalID: 2455492537327984822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_119
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfdecaa2606f4858a7697d39bb0cf92
+      internalID: -1111766761351543708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_120
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c25b02e31194314aaa948b4c57357a
+      internalID: -5839499207966816231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_121
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec0dca54ff4d4463987c65a1a7c0b5f
+      internalID: 4079820856478450819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Rock_122
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeba8b43b83f04460aef88dc4866d352
+      internalID: -2057425246120415795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
