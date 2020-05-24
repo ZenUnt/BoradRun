@@ -11,13 +11,11 @@ public class PlayerManager : MonoBehaviour
     private bool goJump = false; // ジャンプしたか否か
     private bool canJump = false; // ジャンプ可能か否か
 
-    void Start()
-    {
+    void Start() {
         rbody = GetComponent<Rigidbody2D>();
     }
 
-    void Update()
-    {
+    void Update() {
         canJump =
             Physics2D.Linecast(transform.position - (transform.right * 0.3f),
                 transform.position - (transform.up * 0.5f), blockLayer) ||
@@ -33,8 +31,7 @@ public class PlayerManager : MonoBehaviour
         }
     }
 
-    void FixedUpdate()
-    {
+    void FixedUpdate() {
 
         if (goJump) {
             rbody.AddForce(Vector2.up * jumpPower);

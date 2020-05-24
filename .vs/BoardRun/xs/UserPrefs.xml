@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{9FCF0C2C-2603-13A5-1565-BF55C48162D6}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BlockManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerManager.cs" Line="27" Column="44" />
-      <File FileName="Assets/Scripts/BlockManager.cs" Line="8" Column="14" />
+      <File FileName="Assets/Scripts/PlayerManager.cs" Line="31" Column="38" />
+      <File FileName="Assets/Scripts/BlockManager.cs" Line="15" Column="34" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="7" Column="18" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,7 +11,7 @@
           <Node name="BoardRun" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="BlockManager.cs" selected="True" />
+                <Node name="GameManager.cs" selected="True" />
               </Node>
             </Node>
           </Node>
