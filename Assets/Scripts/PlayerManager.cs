@@ -1,7 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 using System;
 
 public class PlayerManager : MonoBehaviour
@@ -15,12 +14,15 @@ public class PlayerManager : MonoBehaviour
     private float jumpPower = 300;   // ジャンプパワー
 
     private bool canJump = false;   // ジャンプ可能か否か
+    private bool canSmallJump = true;// スモールジャンプ可能か否か
     private bool goJump = false;    // ジャンプしたか否か
     private DateTime mouseDownTime; // 画面がクリックされた時刻
     private TimeSpan spanMouseDownUp; // マウスがクリックされてから離されるまでの時間
+    private GameObject GameManager;
 
     void Start() {
         rbody = GetComponent<Rigidbody2D>();
+        GameManager = GameObject.Find("GameManager");
     }
 
     void Update() {
@@ -36,11 +38,12 @@ public class PlayerManager : MonoBehaviour
         }
 
         // 押す時間が短ければ小ジャンプ
-        if (Input.GetMouseButtonUp(0)) {
+        if (Input.GetMouseButtonUp(0) && canSmallJump) {
             spanMouseDownUp = DateTime.UtcNow - mouseDownTime;
             if (spanMouseDownUp < TimeSpan.FromMilliseconds(JUMP_BORDER_TIME)) {
                 rbody.AddForce(Vector2.down * jumpPower * 0.4f);
             }
+            canSmallJump = false;
         }
 
         if (transform.position.y < -8) {
@@ -53,6 +56,7 @@ public class PlayerManager : MonoBehaviour
         if (goJump) {
             rbody.AddForce(Vector2.up * jumpPower);
             goJump = false;
+            canSmallJump = true;
         }
     }
 
@@ -66,6 +70,6 @@ public class PlayerManager : MonoBehaviour
     // ゲームオーバー
     public void GameOver() {
         Destroy(gameObject);
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        GameManager.GetComponent<GameManager>().GameOver();
     }
 }

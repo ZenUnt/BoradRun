@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon May 25 23:34:29 JST 2020
+#Tue May 26 22:27:40 JST 2020
 60.set=ASSET
 52.set=ASSET
 53.base=/Users/hayato/Unity/BoardRun/Temp/gradleOut/build/intermediates/merged_assets/release/out
