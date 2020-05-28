@@ -5,7 +5,7 @@ using UnityEngine;
 public class BlockManager : MonoBehaviour
 {
     // オブジェクト参照
-    public LayerMask defaultLayer;  // ブロックレイヤー
+    public LayerMask defaultLayer = 0;  // ブロックレイヤー
     public GameObject GameManager;  // ゲームマネージャー
 
     //プライベート変数
@@ -16,11 +16,15 @@ public class BlockManager : MonoBehaviour
         speed = 0.08f;
         prevX = transform.position.x;
     }
-    
+
+    private void Update() {
+
+    }
+
     void FixedUpdate() {
         this.transform.Translate(-speed, 0, 0);
 
-        if (transform.position.x < -10) {
+        if (transform.position.x < -40) {
             if (gameObject.layer == defaultLayer) { // 走行距離計算用の特殊ブロックは無限ループ
                 transform.Translate(30, 0, 0);
                 prevX += 30;

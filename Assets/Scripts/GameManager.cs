@@ -8,7 +8,7 @@ using UnityEngine.SceneManagement;
 public class GameManager : MonoBehaviour
 {
     // 定数定義
-    private const int RESPAN_TIME = 300; // ブロックが発生する時間間隔
+    private const int RESPAN_TIME = 8600; // ブロックが発生する時間間隔
 
     // データセーブ用キー
     private const string KEY_HIGH_SCORE = "HIGH_SCPRE";
@@ -20,30 +20,32 @@ public class GameManager : MonoBehaviour
     public Text textHighScore;
 
     // プライベート変数
-    private float runDistance; // 走行距離
+    private float runDistance;  // 走行距離
     private int highScore;
 
     private DateTime lastDateTime;
 
     void Start() {
-        runDistance = 0;
+        runDistance = 0f;
         lastDateTime = DateTime.UtcNow;
         highScore = PlayerPrefs.GetInt(KEY_HIGH_SCORE);
         textHighScore.text = highScore.ToString();
+
+        CreateNewBlock();
     }
 
     void Update() {
+        textScore.text = runDistance.ToString("0");
+    }
 
-        TimeSpan timeSpan = DateTime.UtcNow - lastDateTime;
+    private void FixedUpdate() {
+         TimeSpan timeSpan = DateTime.UtcNow - lastDateTime;
 
         // RESPAN_TIME秒毎にブロックを生成
         if (timeSpan >= TimeSpan.FromMilliseconds(RESPAN_TIME)) {
             CreateNewBlock();
-            lastDateTime += TimeSpan.FromMilliseconds(RESPAN_TIME);
-        }
-
-        textScore.text = runDistance.ToString("0");
-
+            lastDateTime += timeSpan;
+        }      
     }
 
     // 新しいブロックの生成
@@ -51,8 +53,8 @@ public class GameManager : MonoBehaviour
         GameObject block = (GameObject)Instantiate(blockPrefab);
         block.transform.SetParent(map.transform, false);
         block.transform.localPosition = new Vector3(
-            20f,
-            UnityEngine.Random.Range(-3.0f, 5.0f),
+            30f,
+            -5f,//UnityEngine.Random.Range(-2.0f, 5.0f),
             0f);
     }
 
