@@ -506,11 +506,11 @@ ScriptsOnlyBuild:
     className: BlockManager
   - hash:
       serializedVersion: 2
-      Hash: aafae2f7628835fad16ccc0d2545fd80
+      Hash: deeeea55e63040b3dcaa6ece43ea50f5
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: GameManager
   platform: 13
   scenePathNames:
   - Assets/Scenes/GameScene.unity
-  playerPath: /Users/hayato/Unity/BoardRun/BoardRun.apk
+  playerPath: /Users/hayato/Unity/BoardRun/BoardRun2.apk

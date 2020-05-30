@@ -13,7 +13,9 @@ public class BlockManager : MonoBehaviour
     private float prevX; // 全フレームのx座標
 
     void Start() {
-        speed = 0.08f;
+        if (speed < 0.01f) {
+            speed = 0.08f;
+        }
         prevX = transform.position.x;
     }
 
@@ -37,5 +39,9 @@ public class BlockManager : MonoBehaviour
             GameManager.GetComponent<GameManager>().AddRunDistance(prevX - transform.position.x);
             prevX = transform.position.x;
         }
+    }
+
+    public void SetSpeed (float sp) {
+        this.speed = sp;
     }
 }

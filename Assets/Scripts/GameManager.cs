@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using System;
 using UnityEngine.SceneManagement;
+using System;
 
 public class GameManager : MonoBehaviour
 {
@@ -14,7 +14,7 @@ public class GameManager : MonoBehaviour
     private const string KEY_HIGH_SCORE = "HIGH_SCPRE";
 
     // オブジェクト参照
-    public GameObject blockPrefab; // ブロックプレハブ
+    public GameObject[] blockPrefabs; // ブロックプレハブ
     public GameObject map;
     public Text textScore;
     public Text textHighScore;
@@ -26,6 +26,7 @@ public class GameManager : MonoBehaviour
     private DateTime lastDateTime;
 
     void Start() {
+        //PlayerPrefs.DeleteAll();
         runDistance = 0f;
         lastDateTime = DateTime.UtcNow;
         highScore = PlayerPrefs.GetInt(KEY_HIGH_SCORE);
@@ -50,12 +51,20 @@ public class GameManager : MonoBehaviour
 
     // 新しいブロックの生成
     public void CreateNewBlock() {
-        GameObject block = (GameObject)Instantiate(blockPrefab);
+        int rand;
+        if (runDistance < 30f) {
+            rand = RandomInt(0, 1);
+        } else {
+            rand = RandomInt(2, blockPrefabs.Length - 1);
+        }
+        GameObject block = (GameObject)Instantiate(blockPrefabs[rand]);
         block.transform.SetParent(map.transform, false);
         block.transform.localPosition = new Vector3(
             30f,
             -5f,//UnityEngine.Random.Range(-2.0f, 5.0f),
             0f);
+        BlockManager b = block.GetComponent<BlockManager>();
+        b.SetSpeed(0.08f);
     }
 
     // 走行距離を加算
@@ -71,5 +80,10 @@ public class GameManager : MonoBehaviour
             PlayerPrefs.Save();
         }
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+
+    // xからyの間のランダムな整数を返す
+    private int RandomInt(int x, int y) {
+        return UnityEngine.Random.Range(x, y + 1);
     }
 }
