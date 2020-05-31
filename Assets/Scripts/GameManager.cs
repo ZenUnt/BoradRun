@@ -25,18 +25,19 @@ public class GameManager : MonoBehaviour
     // プライベート変数
     private float runDistance;  // 走行距離
     private int highScore;
+    TimeSpan timeSpan;
 
-    private DateTime lastDateTime;
+    private DateTime lastCreateBlockTime;
 
     void Start() {
         PlayerPrefs.DeleteAll();
         runDistance = 0f;
-        lastDateTime = DateTime.UtcNow;
         Time.timeScale = 1.0f;
         KEY_HIGH_SCORE = "HIGH_SCPRE" + SceneManager.GetActiveScene().name;
         highScore = PlayerPrefs.GetInt(KEY_HIGH_SCORE);
         textHighScore.text = highScore.ToString();
 
+        lastCreateBlockTime = DateTime.UtcNow;
         CreateNewBlock();
     }
 
@@ -45,12 +46,21 @@ public class GameManager : MonoBehaviour
     }
 
     private void FixedUpdate() {
-        TimeSpan timeSpan = DateTime.UtcNow - lastDateTime;
+        timeSpan = DateTime.UtcNow - lastCreateBlockTime;
 
         // RESPAN_TIME秒毎にブロックを生成
         if (timeSpan >= TimeSpan.FromMilliseconds(RESPAN_TIME)) {
             CreateNewBlock();
-            lastDateTime += timeSpan;
+            lastCreateBlockTime = DateTime.UtcNow;
+        }
+    }
+
+    private void OnApplicationPause(bool pause) {
+        if (pause) {
+            // アプリがバックグラウンドへ移行
+        } else {
+            // バックグラウンドから復帰
+            lastCreateBlockTime = DateTime.UtcNow - timeSpan;
         }
     }
 

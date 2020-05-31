@@ -16,8 +16,11 @@ ScriptsOnlyBuild:
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.Button
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.Outline
     - UnityEngine.UI.Text
   sceneClasses:
     Assets/Scenes/GameScene.unity:
@@ -46,21 +49,27 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9796}
+      Script: {instanceID: 9670}
     - Class: 114
-      Script: {instanceID: 9958}
+      Script: {instanceID: 9832}
     - Class: 114
-      Script: {instanceID: 10396}
+      Script: {instanceID: 9872}
     - Class: 114
-      Script: {instanceID: 11234}
+      Script: {instanceID: 10270}
     - Class: 114
-      Script: {instanceID: 11604}
+      Script: {instanceID: 10462}
     - Class: 114
-      Script: {instanceID: 15710}
+      Script: {instanceID: 10638}
     - Class: 114
-      Script: {instanceID: 18102}
+      Script: {instanceID: 10756}
     - Class: 114
-      Script: {instanceID: 70504}
+      Script: {instanceID: 11112}
+    - Class: 114
+      Script: {instanceID: 11294}
+    - Class: 114
+      Script: {instanceID: 11428}
+    - Class: 114
+      Script: {instanceID: 11484}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -278,6 +287,12 @@ ScriptsOnlyBuild:
     className: ScrollRect
   - hash:
       serializedVersion: 2
+      Hash: 1743d12130486a7b908a014eb3483ee5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BlockManager
+  - hash:
+      serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -318,6 +333,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: d9095db3f6671081ea8130cbe5cfefd2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerManager
   - hash:
       serializedVersion: 2
       Hash: 783f593b9380cf72d0f7ebfd4a0d4bcd
@@ -402,6 +423,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_StyleSheet
+  - hash:
+      serializedVersion: 2
+      Hash: 963012856d756dbec6229a834f992c74
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GameManager
   - hash:
       serializedVersion: 2
       Hash: df434544c9f7b33d1cc7e635b180d279
@@ -492,24 +519,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: d9095db3f6671081ea8130cbe5cfefd2
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: PlayerManager
-  - hash:
-      serializedVersion: 2
-      Hash: 1743d12130486a7b908a014eb3483ee5
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: BlockManager
-  - hash:
-      serializedVersion: 2
-      Hash: deeeea55e63040b3dcaa6ece43ea50f5
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: GameManager
   platform: 13
   scenePathNames:
   - Assets/Scenes/GameScene.unity
