@@ -52,7 +52,6 @@ public class PlayerManager : MonoBehaviour
     }
 
     void FixedUpdate() {
-
         if (goJump) {
             rbody.AddForce(Vector2.up * jumpPower);
             goJump = false;
