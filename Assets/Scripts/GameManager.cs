@@ -7,8 +7,6 @@ using System;
 
 public class GameManager : MonoBehaviour
 {
-    // 定数定義
-    private const int RESPAN_TIME = 8600; // ブロックが発生する時間間隔
 
     // データセーブ用キー
     private string KEY_HIGH_SCORE;
@@ -24,16 +22,19 @@ public class GameManager : MonoBehaviour
 
     // プライベート変数
     private float runDistance;  // 走行距離
+    private int RESPAN_TIME = 8600; // ブロックが発生する時間間隔(ミリ秒)
     private int highScore;
-    TimeSpan timeSpan;
-
     private DateTime lastCreateBlockTime;
+    private TimeSpan timeSpan;
+
+    private string gameSceneName;
 
     void Start() {
-        PlayerPrefs.DeleteAll();
+        //PlayerPrefs.DeleteAll();
         runDistance = 0f;
         Time.timeScale = 1.0f;
-        KEY_HIGH_SCORE = "HIGH_SCPRE" + SceneManager.GetActiveScene().name;
+        gameSceneName = SceneManager.GetActiveScene().name;
+        KEY_HIGH_SCORE = "HIGH_SCPRE" + gameSceneName;
         highScore = PlayerPrefs.GetInt(KEY_HIGH_SCORE);
         textHighScore.text = highScore.ToString();
 
@@ -42,7 +43,7 @@ public class GameManager : MonoBehaviour
     }
 
     void Update() {
-        textScore.text = runDistance.ToString("0");
+        textScore.text = ((int)runDistance).ToString();
     }
 
     private void FixedUpdate() {
@@ -66,22 +67,39 @@ public class GameManager : MonoBehaviour
 
     // 新しいブロックの生成
     public void CreateNewBlock() {
-        int rand;
-        if (runDistance < 30f) {
-            rand = RandomInt(0, 1);
-        } else if (runDistance < 200f) {
-            rand = RandomInt(2, 4);
+        if (gameSceneName == "GameScene") {
+            int rand;
+            float blockY = -5f;
+            if (runDistance < 20f) {
+                rand = RandomInt(0, 1);
+            } else if (runDistance < 200f) {
+                rand = RandomInt(2, 4);
+            } else if (runDistance < 500f) {
+                rand = RandomInt(2, blockPrefabs.Length - 2);
+            } else {
+                rand = blockPrefabs.Length - 1;
+                RESPAN_TIME = 300;
+                blockY = UnityEngine.Random.Range(-2.0f, 5.0f);
+            }
+            GameObject block = (GameObject)Instantiate(blockPrefabs[rand]);
+            block.transform.SetParent(map.transform, false);
+            block.transform.localPosition = new Vector3(
+                30f,
+                blockY,//UnityEngine.Random.Range(-2.0f, 5.0f),
+                0f);
+            BlockManager b = block.GetComponent<BlockManager>();
+            b.SetSpeed(0.08f);
         } else {
-            rand = RandomInt(2, blockPrefabs.Length - 1);
+            RESPAN_TIME = 300;
+            GameObject block = (GameObject)Instantiate(blockPrefabs[blockPrefabs.Length - 1]);
+            block.transform.SetParent(map.transform, false);
+            block.transform.localPosition = new Vector3(
+                27f,
+                UnityEngine.Random.Range(-2.0f, 5.0f),
+                0f);
+            BlockManager b = block.GetComponent<BlockManager>();
+            b.SetSpeed(0.08f);
         }
-        GameObject block = (GameObject)Instantiate(blockPrefabs[rand]);
-        block.transform.SetParent(map.transform, false);
-        block.transform.localPosition = new Vector3(
-            30f,
-            -5f,//UnityEngine.Random.Range(-2.0f, 5.0f),
-            0f);
-        BlockManager b = block.GetComponent<BlockManager>();
-        b.SetSpeed(0.08f);
     }
 
     // 走行距離を加算
@@ -91,8 +109,9 @@ public class GameManager : MonoBehaviour
 
     // ゲームオーバー
     public void GameOver() {
-        Time.timeScale = 0;
         int score = (int)runDistance;
+        textScore.text = score.ToString();
+        Time.timeScale = 0;
         if (score > highScore) {
             PlayerPrefs.SetInt(KEY_HIGH_SCORE, score);
             PlayerPrefs.Save();

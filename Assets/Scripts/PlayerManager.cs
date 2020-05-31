@@ -8,7 +8,9 @@ public class PlayerManager : MonoBehaviour
     // 定数定義
     private const int JUMP_BORDER_TIME = 180; // 小ジャンプと大ジャンプの境界のミリ秒数
 
+    public GameObject GameManager;
     public LayerMask blockLayer;    // ブロックレイヤー
+
     private Rigidbody2D rbody;      // プレイヤー制御用Rigidbody2D
 
     private float jumpPower = 300;   // ジャンプパワー
@@ -18,11 +20,9 @@ public class PlayerManager : MonoBehaviour
     private bool goJump = false;    // ジャンプしたか否か
     private DateTime mouseDownTime; // 画面がクリックされた時刻
     private TimeSpan spanMouseDownUp; // マウスがクリックされてから離されるまでの時間
-    private GameObject GameManager;
 
     void Start() {
         rbody = GetComponent<Rigidbody2D>();
-        GameManager = GameObject.Find("GameManager");
     }
 
     void Update() {
@@ -46,13 +46,14 @@ public class PlayerManager : MonoBehaviour
             canSmallJump = false;
         }
 
-        if (transform.position.y < -8) {
-            GameOver();
-        }
     }
 
     void FixedUpdate() {
-        if (goJump) {
+        if (transform.position.y < -8) {
+            GameOver();
+        }
+
+       　if (goJump) {
             rbody.AddForce(Vector2.up * jumpPower);
             goJump = false;
             canSmallJump = true;

@@ -65,6 +65,8 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\BlockManager.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\GameManagerRandom.cs" />
+    <Compile Include="Assets\Scripts\HomeManager.cs" />
     <Compile Include="Assets\Scripts\PlayerManager.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/hayato/Unity/BoardRun/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>

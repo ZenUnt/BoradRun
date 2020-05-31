@@ -1,4 +1,4 @@
-#Sun May 31 17:27:11 JST 2020
+#Sun May 31 20:08:51 JST 2020
 base.0=/Users/hayato/Unity/BoardRun/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
 path.0=classes.dex
 renamed.0=classes.dex
