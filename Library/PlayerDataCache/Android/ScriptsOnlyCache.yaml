@@ -47,6 +47,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
@@ -109,6 +113,10 @@ ScriptsOnlyBuild:
     - Class: 62
       Script: {instanceID: 0}
     - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
@@ -536,7 +544,7 @@ ScriptsOnlyBuild:
     className: TMP_StyleSheet
   - hash:
       serializedVersion: 2
-      Hash: 963012856d756dbec6229a834f992c74
+      Hash: 35ac0681b0e472c421c7b21a62eb5747
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: GameManager

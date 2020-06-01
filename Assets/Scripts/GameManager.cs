@@ -29,6 +29,12 @@ public class GameManager : MonoBehaviour
 
     private string gameSceneName;
 
+    public enum GAME_MODE {
+        PLAY,
+        FINISH,
+    };
+    public GAME_MODE gameMode = GAME_MODE.PLAY;
+
     void Start() {
         //PlayerPrefs.DeleteAll();
         runDistance = 0f;
@@ -104,11 +110,14 @@ public class GameManager : MonoBehaviour
 
     // 走行距離を加算
     public void AddRunDistance(float dist) {
-        runDistance += dist;
+        if (gameMode == GAME_MODE.PLAY) {
+            runDistance += dist;
+        }
     }
 
     // ゲームオーバー
     public void GameOver() {
+        gameMode = GAME_MODE.FINISH;
         int score = (int)runDistance;
         textScore.text = score.ToString();
         Time.timeScale = 0;
